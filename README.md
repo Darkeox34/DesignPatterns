@@ -8,7 +8,6 @@ These patterns provide mechanisms for object creation that increase flexibility 
 - **Singleton**
 - **Factory Method**
 - **Abstract Factory**
-- **Builder**
 - **Prototype**
 - **Object Pool**
 
