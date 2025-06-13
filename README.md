@@ -34,4 +34,4 @@ These patterns are concerned with communication between objects and how responsi
 Clone the repo and explore the folders dedicated to each pattern.
 
 ```bash
-git clone https://github.com/your-username/design-patterns-course.git
+git clone https://github.com/Darkeox34/DesignPatterns.git
