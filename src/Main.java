@@ -11,18 +11,5 @@ import creationalpatterns.singleton.Singleton;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args){
-        String os = System.getProperty("os.name");
-
-        GUIFactory factory;
-
-        if(os.contains("Windows")){
-            factory = new WindowsFactory();
-        }
-        else if(os.equals("Mac")){
-            factory = new MacFactory();
-        }
-        else
-            return;
-        factory.initialize();
     }
 }
