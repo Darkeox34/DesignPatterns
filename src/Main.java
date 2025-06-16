@@ -5,8 +5,9 @@ import creationalpatterns.factorymethod.ButtonFactory;
 import creationalpatterns.factorymethod.CircleOS;
 import creationalpatterns.factorymethod.RectangleOS;
 import creationalpatterns.multiton.Multiton;
+import creationalpatterns.prototype.Rectangle;
+import creationalpatterns.prototype.Shape;
 import creationalpatterns.singleton.Singleton;
-
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
