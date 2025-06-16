@@ -8,8 +8,10 @@ import creationalpatterns.multiton.Multiton;
 import creationalpatterns.prototype.Rectangle;
 import creationalpatterns.prototype.Shape;
 import creationalpatterns.singleton.Singleton;
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import structuralpatterns.adapter.Payments;
+import structuralpatterns.adapter.StripeAdapter;
+import structuralpatterns.adapter.StripePayments;
+
 public class Main {
     public static void main(String[] args){
     }
