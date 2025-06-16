@@ -12,6 +12,7 @@ import creationalpatterns.singleton.Singleton;
 import structuralpatterns.adapter.Payments;
 import structuralpatterns.adapter.StripeAdapter;
 import structuralpatterns.adapter.StripePayments;
+import structuralpatterns.bridge.*;
 import structuralpatterns.facade.RequestHandler;
 
 import java.net.http.HttpResponse;
